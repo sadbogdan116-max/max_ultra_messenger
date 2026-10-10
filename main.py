@@ -1,4 +1,4 @@
-# Давлатов Мансур МT-202
+# Давлатов Мансур МT-202 Антонов Александр Мт-202
 import os
 import re
 from collections import Counter
